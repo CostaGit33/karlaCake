@@ -1,0 +1,30 @@
+{
+  "name": "Karla.Cake - Confeitaria Digital",
+  "short_name": "Karla.Cake",
+  "description": "Sistema de gestão de pedidos para confeitaria",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8d7e0",
+  "theme_color": "#d04a7c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}
+
